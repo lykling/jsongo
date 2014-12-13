@@ -1,0 +1,12 @@
+{
+    "author": {
+        "name": "Pride Leong",
+        "email": "lykling.lyk@gmail.com"
+    },
+    "version": "0.0.1",
+    "files": [
+        "jsongo.go",
+        "jsongo_test.go",
+        "test.json"
+    ]
+}
